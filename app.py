@@ -1,5 +1,3 @@
-
-
 def bubble_sort(list):
     is_sorted = False
     k = 1
@@ -13,4 +11,3 @@ def bubble_sort(list):
                 is_sorted = False
         k += 1
     return list
-
